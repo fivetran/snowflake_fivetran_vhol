@@ -142,9 +142,16 @@ alter warehouse mkt_analysis set warehouse_size = 'XSMALL';
 --L--
 -----
 --We discover that the ad group labeled 'oreos' is a mistake and should have been called 'fig newtons'
---Let's correct this in our dev database
+--Let's correct this.
 update GOOGLE_ADS__URL_AD_ADAPTER set ad_group_name = 'fig newtons' where ad_group_name = 'oreos';
---now check it
-select distinct ad_group_name from GOOGLE_ADS__URL_AD_ADAPTER;
---our boss just told us nevermind, turns out 'oreos' was correct all along.  We can fix that quickly.
-create or replace table GOOGLE_ADS__URL_AD_ADAPTER as (SELECT * FROM GOOGLE_ADS__URL_AD_ADAPTER BEFORE (STATEMENT => 'xxxxxxxxx'));
+--now check that the data changed
+select distinct ad_group_name from GOOGLE_ADS__URL_AD_ADAPTER where ad_group_name in ('oreos','fig newtons');
+
+-----
+--M--
+-----
+--Whoops, turns out 'oreos' was correct all along.  We can fix that quickly with Time Travel.
+create or replace table GOOGLE_ADS__URL_AD_ADAPTER as (SELECT * FROM GOOGLE_ADS__URL_AD_ADAPTER AT (OFFSET =>-60*5));
+--Recheck the table
+select distinct ad_group_name from GOOGLE_ADS__URL_AD_ADAPTER where ad_group_name in ('oreos','fig newtons');
+

@@ -1,0 +1,848 @@
+﻿DATE_DAY,ACCOUNT_NAME,EXTERNAL_CUSTOMER_ID,CAMPAIGN_NAME,CAMPAIGN_ID,AD_GROUP_NAME,AD_GROUP_ID,CRITERIA,CRITERIA_TYPE,SPEND,CLICKS,IMPRESSIONS
+2020-05-04,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,local produce,Keyword,18.18,11,14
+2020-07-17,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,19.11,10,14
+2020-06-17,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,local produce,Keyword,0.45,13,19
+2020-04-22,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,16.67,43,6306
+2020-06-24,Groceries-R-Us,12345678,excess inventory,1003,cranberry sauce,2487,thanksgiving_ideas,Keyword,4,189,196
+2020-10-07,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,4.49,142,149
+2020-10-08,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,19.66,98,4172
+2020-10-07,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,23.08,97,3370
+2020-09-20,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,12.57,1,13
+2020-10-24,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,2.23,83,106
+2020-01-16,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,18.9,13,43
+2020-01-14,Groceries-R-Us,12345678,local,1001,cheese,2479,local produce,Keyword,13.08,7,38
+2020-04-04,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,17.44,115,149
+2020-09-21,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,6.17,36,72
+2020-01-28,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,3.54,20,57
+2020-01-25,Groceries-R-Us,12345678,local,1001,tomatoes,2488,local produce,Keyword,14.33,4,49
+2020-02-15,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,19.01,164,210
+2020-06-10,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,7.8,50,97
+2020-07-19,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,18.57,46,97
+2020-04-27,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,8.55,15,74
+2020-10-20,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,27.02,132,1943
+2020-08-31,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,7.81,6,79
+2020-03-31,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,2.67,13,96
+2020-02-26,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,21.87,74,445
+2020-07-16,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,12.5,10,97
+2020-08-23,Groceries-R-Us,12345678,local,1001,tomatoes,2488,local produce,Keyword,15.74,0,90
+2020-01-17,Groceries-R-Us,12345678,excess inventory,1003,cranberry sauce,2487,thanksgiving_ideas,Keyword,3.54,7,97
+2020-10-17,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,6.22,1,92
+2020-05-02,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,8.01,1,98
+2020-06-07,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,16.06,2,112
+2020-02-02,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,13.27,10,131
+2020-10-11,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,18.7,1,174
+2020-05-09,Groceries-R-Us,12345678,excess inventory,1003,cranberry sauce,2487,thanksgiving_ideas,Keyword,19.22,3,185
+2020-03-26,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,18.08,42,234
+2020-02-15,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,18.53,82,279
+2020-05-21,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,5.21,19,244
+2020-02-26,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,12.05,24,280
+2020-10-25,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,6.15,78,413
+2020-04-06,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,5.56,1,29
+2020-03-13,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,2.91,110,205
+2020-08-30,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,37.49,94,6820
+2020-01-29,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,18.83,4,128
+2020-03-14,Groceries-R-Us,12345678,local,1001,cheese,2479,local produce,Keyword,7.63,10,152
+2020-04-22,Groceries-R-Us,12345678,local,1001,tomatoes,2488,local produce,Keyword,11.99,66,213
+2020-10-21,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,31.5,74,897
+2020-07-28,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,15.02,4,186
+2020-08-30,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,19.36,9,4192
+2020-06-29,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,5.22,1,238
+2020-01-10,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,12.17,20,288
+2020-07-13,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,11.79,32,308
+2020-01-23,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,27.3,3,2557
+2020-02-06,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,2.66,4,372
+2020-05-03,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,17.31,46,3255
+2020-07-08,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,17.57,1,515
+2020-04-20,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,17.68,142,3418
+2020-08-02,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,11.74,46,595
+2020-05-28,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,8.79,36,783
+2020-02-14,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,7.59,113,438
+2020-06-01,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,2.54,80,92
+2020-05-28,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,12.42,31,44
+2020-06-06,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,6.49,36,61
+2020-06-05,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,33.74,39,3219
+2020-02-19,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,4.35,29,90
+2020-09-29,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,15.67,81,2848
+2020-06-28,Groceries-R-Us,12345678,local,1001,tomatoes,2488,local produce,Keyword,18.79,0,78
+2020-07-20,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,9.74,20,106
+2020-07-02,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,33.63,100,419
+2020-07-12,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,6.91,5,118
+2020-07-16,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,5.19,13,129
+2020-07-25,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,17.37,0,118
+2020-07-20,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,14.98,6,151
+2020-02-16,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,local produce,Keyword,7.36,4,154
+2020-02-17,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,7.87,3,202
+2020-03-03,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,11.9,18,244
+2020-01-07,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,3.1,32,267
+2020-02-28,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,25.37,4,704
+2020-10-11,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,16.9,42,392
+2020-07-22,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,0.5,14,371
+2020-05-31,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,17.17,53,454
+2020-02-02,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,16.94,74,523
+2020-10-21,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,9.75,25,41
+2020-01-30,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,19.36,2,33
+2020-07-03,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,17.44,23,75
+2020-01-11,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,2.89,2,59
+2020-01-05,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,0.6,23,105
+2020-03-04,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,14.21,1,87
+2020-01-16,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,36.06,159,476
+2020-01-03,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,10.68,2,123
+2020-01-06,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,7.94,27,156
+2020-08-01,Groceries-R-Us,12345678,local,1001,cheese,2479,local produce,Keyword,14.72,19,160
+2020-02-21,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,16.27,77,6185
+2020-03-22,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,0.05,45,193
+2020-06-24,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,20.96,84,2525
+2020-07-21,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,local produce,Keyword,10.79,12,170
+2020-05-07,Groceries-R-Us,12345678,local,1001,tomatoes,2488,local produce,Keyword,4.18,13,188
+2020-09-29,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,10.75,27,212
+2020-05-04,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,16.81,9,201
+2020-09-15,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,13.11,129,326
+2020-04-24,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,20.06,131,1518
+2020-10-15,Groceries-R-Us,12345678,local,1001,cheese,2479,local produce,Keyword,0.79,20,254
+2020-06-06,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,3.5,1,242
+2020-03-06,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,18.36,35,10434
+2020-10-13,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,15.37,32,3181
+2020-03-13,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,24.85,8,8976
+2020-02-24,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,6.03,89,827
+2020-04-22,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,1.26,39,372
+2020-01-11,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,3.46,0,346
+2020-07-08,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,11.2,29,376
+2020-07-07,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,18.42,7,383
+2020-02-14,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,0.64,9,392
+2020-07-23,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,12.74,6,407
+2020-07-01,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,3.27,179,3080
+2020-03-17,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,14.97,19,451
+2020-09-24,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,3.63,202,5972
+2020-04-15,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,14.82,38,548
+2020-05-01,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,16.63,11,573
+2020-02-13,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,15.64,83,4694
+2020-10-05,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,13.42,11,659
+2020-05-17,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,18.94,166,2620
+2020-04-11,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,2.85,30,723
+2020-08-22,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,1.34,4,101
+2020-05-18,Groceries-R-Us,12345678,local,1001,cheese,2479,local produce,Keyword,2.62,40,155
+2020-09-27,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,36.91,211,1626
+2020-02-10,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,1.33,58,220
+2020-01-19,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,1.09,56,283
+2020-06-20,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,4.19,9,264
+2020-06-19,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,10.78,40,3474
+2020-02-13,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,18.95,14,286
+2020-01-24,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,32.14,57,3673
+2020-01-14,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,1.56,4,377
+2020-06-20,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,11.6,262,6531
+2020-01-22,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,14.97,18,254
+2020-10-21,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,4.56,135,515
+2020-03-19,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,19.96,137,8176
+2020-06-19,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,31.81,119,834
+2020-09-07,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,local produce,Keyword,12.29,2,63
+2020-03-19,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,16.68,118,191
+2020-06-01,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,30.06,76,28097
+2020-05-10,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,13.62,33,2078
+2020-09-30,Groceries-R-Us,12345678,local,1001,cheese,2479,local produce,Keyword,8.7,34,187
+2020-08-29,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,8.16,7,252
+2020-06-11,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,11.2,47,301
+2020-02-08,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,14.24,35,297
+2020-05-16,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,11.61,23,285
+2020-10-18,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,25.58,30,10131
+2020-09-01,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,7.13,48,11379
+2020-06-03,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,3.25,5,291
+2020-07-24,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,13.77,81,407
+2020-04-04,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,5.48,1,329
+2020-04-18,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,11.73,21,379
+2020-06-24,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,22.73,30,7554
+2020-07-22,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,1.12,77,473
+2020-08-05,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,12.86,7,406
+2020-09-30,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,1.59,7,491
+2020-04-07,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,5.04,45,590
+2020-10-09,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,11.12,61,4401
+2020-04-13,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,3.01,21,593
+2020-09-16,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,8.19,22,612
+2020-09-04,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,13.76,93,685
+2020-07-11,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,11.17,39,680
+2020-09-09,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,5.54,7,674
+2020-01-29,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,12.34,19,716
+2020-01-27,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,8.46,168,871
+2020-10-12,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,11.2,180,883
+2020-01-24,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,19.36,85,814
+2020-01-16,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,40.93,96,5208
+2020-04-14,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,1.79,31,792
+2020-04-14,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,3.01,71,149
+2020-05-22,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,19.7,36,138
+2020-01-12,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,29.03,336,5824
+2020-09-22,Groceries-R-Us,12345678,local,1001,tomatoes,2488,local produce,Keyword,13.09,1,199
+2020-01-10,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,15.43,12,252
+2020-09-30,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,13.81,4,265
+2020-08-04,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,34.09,42,2455
+2020-10-20,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,18.18,222,543
+2020-08-03,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,20.33,80,2023
+2020-04-29,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,16.64,11,345
+2020-09-25,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,4.7,1,336
+2020-04-05,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,8.71,16,362
+2020-02-28,Groceries-R-Us,12345678,local,1001,cheese,2479,local produce,Keyword,1.11,10,368
+2020-01-28,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,33.02,97,4350
+2020-08-27,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,13.71,9,103
+2020-05-30,Groceries-R-Us,12345678,local,1001,tomatoes,2488,local produce,Keyword,15.12,13,181
+2020-04-26,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,7.72,15,264
+2020-01-22,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,0.5,72,612
+2020-06-14,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,29.09,22,5275
+2020-03-22,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,14.28,97,461
+2020-07-09,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,14.53,40,414
+2020-07-28,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,31.91,171,2045
+2020-10-16,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,0.52,32,423
+2020-01-04,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,9.29,40,443
+2020-08-30,Groceries-R-Us,12345678,local,1001,cheese,2479,local produce,Keyword,8.08,15,421
+2020-02-14,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,28.44,63,2820
+2020-09-27,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,14.23,6,417
+2020-06-24,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,14.85,72,498
+2020-01-11,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,12,1,435
+2020-10-07,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,10.78,29,6947
+2020-04-08,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,9.45,175,629
+2020-04-08,Groceries-R-Us,12345678,local,1001,cheese,2479,local produce,Keyword,1.86,300,2800
+2020-10-16,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,0.25,30,510
+2020-01-25,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,18.28,1,484
+2020-02-09,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,18.55,5,494
+2020-01-08,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,4.59,3,494
+2020-07-03,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,13.92,2,506
+2020-07-21,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,12.68,23,3244
+2020-04-05,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,9.28,2,511
+2020-10-12,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,18.04,23,547
+2020-04-17,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,9.75,3,536
+2020-08-30,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,0.49,72,606
+2020-07-18,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,14.6,110,645
+2020-05-22,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,2.72,7,542
+2020-02-12,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,2.39,0,543
+2020-08-05,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,local produce,Keyword,16.32,11,584
+2020-09-06,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,10.41,55,634
+2020-08-08,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,0.86,9,603
+2020-07-24,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,16.63,2,598
+2020-08-25,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,0.3,119,726
+2020-01-15,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,19.48,3,626
+2020-08-10,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,2.97,21,655
+2020-01-16,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,11.52,111,747
+2020-07-03,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,17.65,9,656
+2020-06-07,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,18.38,6,653
+2020-03-26,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,13.16,12,670
+2020-05-10,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,19.56,7,677
+2020-08-06,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,3.16,0,672
+2020-03-02,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,17.88,35,711
+2020-01-08,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,3.51,85,783
+2020-06-16,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,3.02,73,783
+2020-08-31,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,12.77,24,737
+2020-02-12,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,11.94,62,777
+2020-04-01,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,6.98,27,764
+2020-05-24,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,2.19,11,752
+2020-04-06,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,3.78,51,803
+2020-01-20,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,local produce,Keyword,17.86,41,797
+2020-08-26,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,2.29,19,396
+2020-08-10,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,1.62,131,546
+2020-01-26,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,23.3,118,6481
+2020-08-06,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,30.91,27,4716
+2020-02-09,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,17.28,19,5765
+2020-06-22,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,10.42,60,1487
+2020-02-21,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,15.58,10,674
+2020-03-21,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,10.21,7,715
+2020-10-24,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,3.65,1,712
+2020-05-13,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,16.4,42,3873
+2020-05-10,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,6.67,34,800
+2020-06-15,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,11.51,1,778
+2020-09-18,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,1.2,49,830
+2020-06-02,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,16.43,135,4211
+2020-06-16,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,28.57,121,2395
+2020-01-29,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,0.04,35,831
+2020-07-04,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,23.11,74,3524
+2020-07-03,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,2,96,894
+2020-09-02,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,5.52,10,820
+2020-04-25,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,16.65,5,818
+2020-03-21,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,24.78,179,3556
+2020-03-24,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,18.68,37,5414
+2020-07-24,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,31.94,53,2346
+2020-06-03,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,17.27,23,866
+2020-07-24,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,23.91,60,3340
+2020-06-09,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,13.79,7,856
+2020-05-13,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,11.03,1,868
+2020-03-28,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,25.8,7,10691
+2020-06-27,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,11.21,27,904
+2020-09-29,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,0.12,15,893
+2020-03-01,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,35.26,161,11208
+2020-07-13,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,9.88,83,970
+2020-01-31,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,0.43,19,915
+2020-09-26,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,2.86,11,912
+2020-04-01,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,11,36,942
+2020-02-20,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,14.77,2,908
+2020-10-14,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,4,32,4636
+2020-08-07,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,1.69,0,913
+2020-04-21,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,17.32,34,948
+2020-04-07,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,11.04,33,953
+2020-08-14,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,16.24,8,930
+2020-03-07,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,17.62,91,1016
+2020-08-18,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,47.06,113,9248
+2020-10-01,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,15.42,24,980
+2020-07-15,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,10.37,60,1026
+2020-06-19,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,7.32,23,992
+2020-08-23,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,23.44,44,2313
+2020-04-04,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,25.93,66,8949
+2020-04-22,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,12.41,38,1020
+2020-02-09,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,18.98,73,1061
+2020-07-25,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,17.03,10,998
+2020-02-17,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,4.48,83,3355
+2020-01-27,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,15.38,15,1035
+2020-07-05,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,7.41,22,1042
+2020-07-04,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,0.4,2,1030
+2020-03-31,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,10.44,7,1039
+2020-06-07,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,15,180,1213
+2020-04-15,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,8.91,32,1071
+2020-06-10,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,16.63,11,1050
+2020-05-09,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,19.09,8,1050
+2020-03-10,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,7.81,12,1056
+2020-04-13,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,22.57,41,12777
+2020-10-20,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,0.21,26,1087
+2020-03-07,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,16.1,41,1103
+2020-09-15,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,6.87,31,1101
+2020-08-18,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,8.81,66,4652
+2020-04-06,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,5.67,38,1113
+2020-10-13,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,16.72,19,1096
+2020-02-26,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,8.2,13,1101
+2020-02-25,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,18.25,21,1114
+2020-03-28,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,9.96,158,1258
+2020-02-05,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,14.04,20,7783
+2020-02-19,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,9.79,26,1154
+2020-08-23,Groceries-R-Us,12345678,excess inventory,1003,cranberry sauce,2487,thanksgiving_ideas,Keyword,8.6,3,1145
+2020-09-29,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,12.96,92,2777
+2020-06-25,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,24.26,224,6740
+2020-10-21,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,5.21,9,1175
+2020-08-12,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,10.78,26,1199
+2020-03-17,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,7.23,11,1185
+2020-02-22,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,3.81,7,1190
+2020-02-22,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,32.97,10,4773
+2020-01-12,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,9.48,10,1216
+2020-03-31,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,22.84,49,9214
+2020-01-02,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,1.01,59,1265
+2020-07-18,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,14.32,4,1214
+2020-05-13,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,6.03,152,1365
+2020-01-07,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,0.57,8,1231
+2020-08-01,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,26.89,23,5082
+2020-02-01,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,0.88,37,1273
+2020-07-29,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,21.05,101,5359
+2020-07-05,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,29.6,65,5745
+2020-05-13,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,0.49,8,1318
+2020-05-03,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,15.06,5,1322
+2020-04-08,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,13.34,43,3606
+2020-10-13,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,18.52,30,1363
+2020-07-07,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,5.33,106,2857
+2020-01-07,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,17.52,14,1402
+2020-05-15,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,30.87,219,6973
+2020-06-04,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,15.68,13,11747
+2020-03-16,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,11.51,4,1428
+2020-04-12,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,47.5,132,5677
+2020-09-23,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,3.27,12,1450
+2020-05-29,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,9.55,206,16715
+2020-01-12,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,1.55,14,1464
+2020-08-18,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,7.43,0,1453
+2020-01-23,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,15.97,25,1490
+2020-08-07,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,18.01,45,1522
+2020-09-14,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,20.74,39,3993
+2020-01-13,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,8.14,19,1522
+2020-01-17,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,24.46,183,8852
+2020-01-21,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,3.42,0,1505
+2020-04-03,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,12.11,51,1581
+2020-07-25,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,14.19,37,607
+2020-09-21,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,14.44,188,766
+2020-03-11,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,11.14,70,887
+2020-05-12,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,19.87,50,890
+2020-05-03,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,15.3,14,878
+2020-05-24,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,17.28,51,949
+2020-05-19,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,4.98,7,937
+2020-07-25,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,5.07,40,1025
+2020-09-01,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,11.87,17,1059
+2020-01-14,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,22.69,279,5262
+2020-01-26,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,20.45,169,9546
+2020-07-05,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,16.09,18,1169
+2020-05-24,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,5.06,38,1221
+2020-05-16,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,17.76,63,13574
+2020-07-30,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,10.34,50,1254
+2020-05-21,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,0.62,41,1248
+2020-01-15,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,18.33,35,1294
+2020-07-12,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,15.68,37,1298
+2020-05-27,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,16.18,76,3870
+2020-03-13,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,3.8,17,1359
+2020-02-08,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,0.26,14,1393
+2020-10-17,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,0.93,90,2902
+2020-10-16,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,7.71,8,1404
+2020-03-13,Groceries-R-Us,12345678,local,1001,cheese,2479,local produce,Keyword,4.26,114,1592
+2020-05-28,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,1.98,61,1542
+2020-03-28,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,31.54,90,3787
+2020-02-01,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,12.74,75,1593
+2020-08-11,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,19.59,7,1535
+2020-04-03,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,14.74,32,1117
+2020-06-25,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,17.43,3,1534
+2020-07-23,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,13.48,18,1569
+2020-02-02,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,16.74,3,1568
+2020-08-15,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,13.29,92,1666
+2020-06-12,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,14.85,4,1583
+2020-02-20,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,7.57,15,1622
+2020-07-27,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,7.59,2,1610
+2020-06-18,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,7.15,2,1619
+2020-05-15,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,16.8,70,1689
+2020-10-23,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,19.25,81,1701
+2020-06-15,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,20.72,179,11863
+2020-05-29,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,15.23,32,1681
+2020-01-13,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,27.24,17,5576
+2020-02-10,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,2.79,5,1689
+2020-04-08,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,11.79,122,1810
+2020-10-16,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,17.73,3,1698
+2020-05-19,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,8.82,30,1726
+2020-06-14,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,4.89,10,1711
+2020-03-28,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,8.07,6,1713
+2020-09-16,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,19.19,56,1763
+2020-02-22,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,19.55,101,1819
+2020-02-11,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,4.85,68,1799
+2020-01-20,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,19.86,64,1827
+2020-01-09,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,17.31,116,4182
+2020-09-01,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,12.5,117,10253
+2020-08-26,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,11.98,175,4409
+2020-04-06,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,19.72,86,1901
+2020-06-04,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,25.65,406,17223
+2020-05-05,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,18.91,6,1839
+2020-07-30,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,11.76,10,1861
+2020-08-02,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,43.35,103,8960
+2020-08-31,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,12.61,1,1872
+2020-09-20,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,15.22,4,1885
+2020-06-28,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,1.78,179,2061
+2020-02-14,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,14.05,98,1980
+2020-10-03,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,16.39,18,1910
+2020-07-31,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,18.68,44,5102
+2020-08-17,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,3.07,15,1940
+2020-01-29,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,15.78,73,1998
+2020-08-24,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,17.45,5,1956
+2020-10-23,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,4.63,47,2036
+2020-09-30,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,14.1,24,2034
+2020-09-14,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,10.99,19,2031
+2020-02-06,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,4.28,161,2181
+2020-09-08,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,5.67,17,9562
+2020-07-06,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,15.37,15,2046
+2020-04-01,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,11.89,191,2239
+2020-05-26,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,4.92,18,2104
+2020-03-28,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,18.49,25,2121
+2020-03-26,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,11.07,81,2205
+2020-08-25,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,1.45,57,2198
+2020-02-01,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,21.47,48,5053
+2020-01-23,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,12.6,49,2210
+2020-09-20,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,10.2,21,2189
+2020-08-14,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,6.46,46,2223
+2020-07-04,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,18.29,14,2206
+2020-08-28,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,3.3,141,2358
+2020-10-01,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,3.35,2,2269
+2020-08-29,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,10.8,23,2308
+2020-09-11,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,11.33,4,2315
+2020-02-12,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,0.21,36,2403
+2020-07-23,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,14.77,50,2428
+2020-04-15,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,19.44,3,2383
+2020-10-24,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,7.51,92,2474
+2020-07-24,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,13.4,8,2393
+2020-08-03,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,18.01,144,2606
+2020-10-12,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,19.74,27,2523
+2020-06-27,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,19.65,2,2504
+2020-03-20,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,18.17,84,6687
+2020-03-14,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,19.74,34,2587
+2020-08-01,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,5.79,62,2638
+2020-03-21,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,11.97,115,2728
+2020-02-05,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,6.3,6,2620
+2020-08-09,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,9.84,100,2721
+2020-08-21,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,11.01,31,2692
+2020-10-21,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,1.95,13,2675
+2020-10-03,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,11.14,21,2725
+2020-06-16,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,17.48,91,12973
+2020-09-28,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,15.15,50,2840
+2020-06-19,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,7.87,13,2804
+2020-04-28,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,17.05,8,2845
+2020-03-15,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,7.99,12,2853
+2020-05-22,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,18.25,29,2874
+2020-07-11,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,12.77,164,3038
+2020-09-12,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,10.52,8,2933
+2020-03-14,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,2.68,251,3266
+2020-05-20,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,6.12,9,3037
+2020-10-17,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,19.3,21,3070
+2020-01-27,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,3,69,3119
+2020-06-08,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,0.89,2,3052
+2020-07-19,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,14.03,111,3169
+2020-01-29,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,10.04,23,3110
+2020-10-07,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,3.03,4,3104
+2020-08-13,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,14.7,6,3126
+2020-03-22,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,18.85,19,3149
+2020-09-17,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,15.35,67,3221
+2020-09-19,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,9.5,13,3176
+2020-05-05,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,18.3,10,3244
+2020-03-04,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,16.8,1,3252
+2020-02-15,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,4.55,4,3292
+2020-03-16,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,8.72,189,3488
+2020-09-03,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,11.37,3,3311
+2020-03-12,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,6.57,51,3447
+2020-09-11,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,15.95,56,3456
+2020-09-02,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,11.22,50,3457
+2020-02-01,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,4.28,35,3454
+2020-04-08,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,2.4,30,3512
+2020-06-22,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,12.83,0,3542
+2020-03-11,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,21.79,90,8188
+2020-08-24,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,19.98,3,3596
+2020-02-27,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,19.07,17,10913
+2020-10-10,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,9.59,199,11506
+2020-02-18,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,7.64,10,3648
+2020-02-07,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,12.07,135,3823
+2020-04-23,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,1.03,2,3723
+2020-09-03,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,4.74,17,3764
+2020-08-11,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,3.11,34,3885
+2020-04-16,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,2.45,68,3925
+2020-10-09,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,13.54,11,3887
+2020-03-13,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,16.92,18,3902
+2020-03-02,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,2.98,9,4052
+2020-04-21,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,5.9,194,4238
+2020-10-03,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,11.57,29,4087
+2020-02-16,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,9.69,37,4134
+2020-10-02,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,18.47,26,4125
+2020-07-15,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,9.08,4,4124
+2020-09-09,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,1.32,1,4126
+2020-08-03,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,17.78,0,4159
+2020-08-17,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,16.5,89,4332
+2020-05-18,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,3.38,49,4318
+2020-09-23,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,23.89,8,10788
+2020-06-29,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,5.32,37,4399
+2020-10-20,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,9.65,152,4531
+2020-01-11,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,16.57,145,4671
+2020-04-13,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,17.96,25,4646
+2020-07-11,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,19.77,28,4658
+2020-02-29,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,5.79,102,4799
+2020-10-04,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,17.03,19,853
+2020-01-27,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,11.11,14,949
+2020-01-30,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,0.47,64,1013
+2020-08-18,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,12.74,65,1180
+2020-09-22,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,10.77,24,1225
+2020-10-12,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,8.96,5,1269
+2020-09-08,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,15.26,36,3301
+2020-01-07,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,8.53,32,1324
+2020-09-29,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,13.86,2,1298
+2020-08-17,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,3.06,12,1336
+2020-10-19,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,20.44,10,8086
+2020-09-15,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,13.75,11,1347
+2020-04-23,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,6.54,45,1386
+2020-06-03,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,5.27,25,1382
+2020-01-25,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,7.51,8,1479
+2020-05-18,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,14.88,0,1482
+2020-08-16,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,19.9,16,1512
+2020-09-10,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,4.18,173,1750
+2020-09-04,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,12.7,61,1648
+2020-01-08,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,19.32,15,1639
+2020-04-28,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,13.81,48,1678
+2020-01-19,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,1.87,96,1757
+2020-09-05,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,6.5,23,1719
+2020-04-17,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,24.87,33,6915
+2020-05-04,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,0.9,104,1816
+2020-01-19,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,12.3,85,1830
+2020-02-04,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,19.62,60,1819
+2020-01-12,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,4.55,28,1806
+2020-03-30,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,11.18,103,1941
+2020-09-24,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,10.8,0,1843
+2020-04-30,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,3.49,45,1938
+2020-06-22,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,1.46,1,1900
+2020-09-13,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,11.87,23,1933
+2020-07-06,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,16.35,330,11316
+2020-07-22,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,11.7,83,2032
+2020-05-24,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,2.91,1,1976
+2020-07-14,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,5.77,32,2049
+2020-03-21,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,17.93,1,2320
+2020-10-22,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,19.5,26,2454
+2020-01-30,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,15.8,41,2714
+2020-07-31,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,14.85,6,3039
+2020-05-18,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,4.91,30,3350
+2020-09-18,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,14.95,14,3630
+2020-03-16,Groceries-R-Us,12345678,local,1001,eggs,2478,local produce,Keyword,1.58,160,3986
+2020-05-27,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,18.59,1,4280
+2020-04-24,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,0.74,24,4611
+2020-01-18,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,15.54,4,4694
+2020-04-25,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,11.29,18,1192
+2020-06-27,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,5.77,108,1445
+2020-08-06,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,12.27,43,1793
+2020-04-10,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,0.11,1,1929
+2020-06-11,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,9.87,43,2069
+2020-05-03,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,13.08,14,2141
+2020-08-20,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,9.4,59,2221
+2020-03-12,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,6.57,30,2252
+2020-04-30,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,9.9,122,2381
+2020-02-03,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,3.19,4,2304
+2020-02-02,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,15.48,24,2337
+2020-04-18,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,5.11,1,2317
+2020-08-22,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,10.96,27,2383
+2020-07-18,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,0.67,27,2391
+2020-03-01,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,2.64,34,2413
+2020-03-25,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,12.66,217,2639
+2020-09-10,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,12.31,135,6931
+2020-07-01,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,4.6,17,2473
+2020-03-28,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,8.1,52,2522
+2020-08-29,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,4.95,6,2484
+2020-09-05,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,9.56,5,2484
+2020-05-01,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,5.04,228,2714
+2020-04-05,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,27.08,149,20207
+2020-09-07,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,7.51,4,2552
+2020-08-28,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,3.41,116,2670
+2020-01-20,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,10.2,20,2585
+2020-04-10,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,19.2,35,8313
+2020-04-01,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,7.72,5,2643
+2020-07-08,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,18.38,31,7215
+2020-03-06,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,4.78,7,2648
+2020-06-04,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,8.92,0,2642
+2020-01-20,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,8.25,149,9733
+2020-02-04,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,2.27,10,2708
+2020-07-16,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,6.46,151,2860
+2020-03-08,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,8.35,57,2777
+2020-04-09,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,13.6,14,2773
+2020-02-24,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,14.82,67,2831
+2020-10-12,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,18.18,33,2819
+2020-06-29,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,13.59,4,2796
+2020-04-28,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,8,10,2858
+2020-08-07,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,1.7,78,2931
+2020-03-16,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,6.28,77,2942
+2020-05-19,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,10.99,79,2998
+2020-08-11,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,0.32,128,3081
+2020-10-06,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,14.89,34,3008
+2020-01-21,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,16.02,64,3062
+2020-01-22,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,28.36,2,6915
+2020-10-11,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,12.25,104,3151
+2020-05-02,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,16.53,210,3259
+2020-03-09,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,10.57,8,3108
+2020-05-26,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,9.6,4,3123
+2020-06-23,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,21.6,31,8576
+2020-01-03,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,19.61,135,3351
+2020-06-16,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,9.24,1,3235
+2020-07-28,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,5.7,19,3253
+2020-03-02,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,10.49,5,3283
+2020-08-04,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,9.59,60,3350
+2020-05-08,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,2.89,93,3399
+2020-02-21,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,8.8,113,3472
+2020-01-25,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,3.94,95,3568
+2020-08-12,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,1.45,98,3573
+2020-08-30,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,5.28,13,3490
+2020-03-30,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,3.87,36,3580
+2020-03-26,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,6.61,188,3735
+2020-01-31,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,9.87,104,3709
+2020-09-22,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,23.11,77,17631
+2020-05-03,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,19.12,51,3830
+2020-04-09,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,1.6,123,3915
+2020-03-17,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,17.22,11,3840
+2020-10-19,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,6.27,24,3917
+2020-01-31,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,12.82,30,3948
+2020-07-29,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,10.15,0,3919
+2020-04-01,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,31-40%,Household income,16.87,4,3932
+2020-06-04,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,4.2,1,3947
+2020-07-10,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,8.02,107,4085
+2020-05-09,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,6.46,99,4109
+2020-07-29,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,7.01,6,4062
+2020-10-24,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,21.14,69,12363
+2020-05-25,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,18.89,3,4230
+2020-06-21,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,9.82,142,9782
+2020-09-06,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,18.42,13,4328
+2020-10-08,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,12.79,70,4398
+2020-08-29,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,15.46,4,4415
+2020-09-11,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,6.82,33,10672
+2020-02-03,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,3.27,12,4516
+2020-09-28,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,0.31,54,4575
+2020-05-21,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,10.15,133,4671
+2020-03-08,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,4.98,3,4580
+2020-01-08,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,18.43,6,4588
+2020-06-26,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,17.72,5,4616
+2020-01-05,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,13.76,5,4700
+2020-04-19,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,4.77,118,4828
+2020-02-27,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,3.69,103,4817
+2020-01-22,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,13.55,13,1535
+2020-08-06,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,25.47,27,4006
+2020-02-10,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,12.66,19,2747
+2020-03-23,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,30.22,79,13949
+2020-09-06,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,4.27,56,3493
+2020-04-28,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,0.62,36,3505
+2020-09-07,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,7.44,16,4352
+2020-07-14,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,4.3,188,3455
+2020-03-05,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,16.25,0,4714
+2020-05-15,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,9.71,3,4754
+2020-02-11,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,0.86,3,4801
+2020-03-07,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,5.49,66,4866
+2020-08-10,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,11.36,4,4808
+2020-06-29,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,12.27,23,4846
+2020-08-07,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,19.48,90,4918
+2020-04-22,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,6.19,3,4879
+2020-08-13,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,6.93,37,4921
+2020-10-11,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,6.66,34,4924
+2020-04-12,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,8.73,79,5006
+2020-04-15,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,0.86,8,4956
+2020-03-20,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,11.83,43,15110
+2020-03-31,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,19.33,40,5022
+2020-09-05,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,7.57,38,5022
+2020-06-09,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,19.61,66,5053
+2020-02-19,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,0.43,8,5008
+2020-03-30,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,18.13,135,5198
+2020-10-17,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,3.26,218,5298
+2020-06-01,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,1.44,25,5204
+2020-01-19,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,17.81,4,5223
+2020-08-20,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,9.12,83,5349
+2020-07-29,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,25.81,14,12235
+2020-09-12,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,3.62,43,5376
+2020-09-17,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,5.76,50,5412
+2020-09-16,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,17.56,175,5589
+2020-10-13,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,10.99,52,5495
+2020-04-02,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,6.92,2,5450
+2020-05-06,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,15.11,66,5530
+2020-04-23,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,16.65,10,5475
+2020-03-16,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,14.75,15,5497
+2020-03-05,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,1.04,15,5628
+2020-04-01,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,0.88,66,5716
+2020-04-11,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,1.09,40,5702
+2020-10-18,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,7.73,8,5703
+2020-03-29,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,13.62,131,5827
+2020-01-05,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,7.31,73,5792
+2020-02-07,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,14.72,71,5850
+2020-04-19,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,14.32,14,5856
+2020-04-19,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,0.42,92,5935
+2020-01-14,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,5.54,47,5902
+2020-01-18,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,5.82,3,5901
+2020-06-14,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,7.41,5,5907
+2020-04-12,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,13.63,9,5918
+2020-07-09,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,17.15,39,5971
+2020-02-25,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,5,10,6080
+2020-03-10,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,10.91,1,6083
+2020-10-13,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,0.32,16,6130
+2020-08-09,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,5.5,38,6170
+2020-05-01,Groceries-R-Us,12345678,excess inventory,1003,cranberry sauce,2487,thanksgiving_ideas,Keyword,5.52,244,6415
+2020-08-17,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,18.45,29,6219
+2020-01-23,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,12.52,28,6221
+2020-04-30,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,19.63,175,6379
+2020-01-17,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,5.45,6,6233
+2020-07-22,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,12.88,65,6328
+2020-09-20,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,16.12,118,6397
+2020-03-05,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,5.68,66,6387
+2020-01-01,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,5.73,87,6454
+2020-08-24,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,6.44,88,14040
+2020-10-10,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,16.2,1,6498
+2020-05-16,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,1,1,6554
+2020-06-03,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,35.95,78,17486
+2020-09-20,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,10.7,182,6863
+2020-09-27,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,15.83,65,6756
+2020-05-26,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,13.54,205,6923
+2020-10-18,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,5.75,47,6776
+2020-06-21,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,15.22,20,6755
+2020-02-25,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,1.94,5,6755
+2020-08-30,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,2.24,37,6797
+2020-02-04,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,6.33,13,6850
+2020-01-19,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,9.73,6,6844
+2020-05-23,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,3.25,106,6948
+2020-08-05,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,8.65,16,6897
+2020-05-18,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,9.4,22,6910
+2020-04-26,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,18.53,27,6949
+2020-06-19,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,16.39,22,6976
+2020-06-13,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,15.56,13,6969
+2020-04-27,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,14.08,228,7198
+2020-06-23,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,17.57,19,3779
+2020-03-23,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,15.33,134,3903
+2020-06-02,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,0.94,3,4618
+2020-08-22,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,2.31,77,4901
+2020-02-29,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,7.97,30,4883
+2020-03-11,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,11.61,16,5089
+2020-07-15,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,6.81,4,5300
+2020-06-28,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,3.52,178,6503
+2020-09-23,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,4.28,12,6482
+2020-05-05,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,9.66,80,7175
+2020-02-11,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,16.75,5,7159
+2020-05-08,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,9.5,3,7172
+2020-09-23,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,1.6,67,7310
+2020-01-31,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,11.62,12,7268
+2020-02-19,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,8.92,14,7317
+2020-03-22,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,1.86,102,7443
+2020-09-15,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,9.8,15,7373
+2020-02-01,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,18.27,227,7621
+2020-04-07,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,19.17,9,7554
+2020-04-23,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,13.9,80,7670
+2020-07-20,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,11.56,1,7606
+2020-06-23,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,10.23,157,7764
+2020-10-01,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,0.23,35,7764
+2020-09-05,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,8.33,56,7805
+2020-06-23,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,9.06,7,7769
+2020-01-11,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,15.57,0,7831
+2020-03-16,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,3.21,103,7976
+2020-09-01,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,14.14,8,7942
+2020-02-04,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,4.7,21,8003
+2020-02-07,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,16.71,10,8040
+2020-07-15,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,4.7,10,8116
+2020-02-02,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,17.15,11,8130
+2020-05-11,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,3.04,19,8142
+2020-05-31,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,0.16,10,8160
+2020-04-23,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,9.94,55,8384
+2020-08-19,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,5.2,28,8381
+2020-03-14,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,4.82,51,8432
+2020-05-10,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,2.48,87,8519
+2020-10-01,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,17.62,12,8475
+2020-01-05,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,16.82,4,8539
+2020-01-25,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,7.24,15,8596
+2020-07-22,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,9.2,36,8649
+2020-08-04,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,7.01,40,8697
+2020-03-10,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,13.35,11,8689
+2020-01-28,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,4.19,208,8889
+2020-02-23,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,12.38,25,8826
+2020-05-17,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,17.25,42,8897
+2020-04-24,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,4.22,84,8975
+2020-01-02,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,8.68,69,9000
+2020-09-06,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,3.58,127,9105
+2020-01-11,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,9.21,15,9012
+2020-04-03,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,9.94,98,9162
+2020-01-09,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,7.12,53,9132
+2020-06-08,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,6.76,63,9208
+2020-01-05,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,1.76,87,9339
+2020-08-02,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,local produce,Keyword,19.96,146,9461
+2020-02-03,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,11.3,70,9443
+2020-05-27,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,9.24,55,9435
+2020-04-15,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,9.99,40,9659
+2020-06-20,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,17.27,32,9652
+2020-02-15,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,11.28,57,9730
+2020-07-04,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,6.84,0,9940
+2020-07-14,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,2.22,38,10055
+2020-08-27,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,2.72,21,10169
+2020-03-14,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,2.2,34,10196
+2020-09-13,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,17.68,111,10466
+2020-10-22,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,0.4,4,10451
+2020-08-08,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,3.79,15,10502
+2020-02-16,Groceries-R-Us,12345678,holiday promotion,1004,cranberry sauce,2487,thanksgiving ideas,Keyword,4.51,10,10519
+2020-02-17,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,0.11,86,10878
+2020-05-09,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,14.56,65,10881
+2020-03-27,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,10.3,108,11023
+2020-07-12,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,7.5,115,11054
+2020-06-28,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,18.65,61,11016
+2020-05-25,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,16.63,103,11067
+2020-07-23,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,10.8,12,11029
+2020-01-27,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,4.41,208,11404
+2020-07-09,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,14.75,28,11355
+2020-09-24,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,10.74,72,11611
+2020-02-06,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,1.39,48,11648
+2020-04-20,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,6.7,131,11960
+2020-07-12,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,6.38,19,11934
+2020-08-01,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,3.37,6,11992
+2020-10-22,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,11.18,4,12080
+2020-09-20,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,17.69,33,12115
+2020-02-24,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,1.9,98,12367
+2020-10-07,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,1.5,41,12454
+2020-08-27,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,13.01,49,12738
+2020-06-03,Groceries-R-Us,12345678,holiday promotion,1004,turkey,2485,thanksgiving ideas,Keyword,0.91,15,12781
+2020-02-24,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,9.03,82,12891
+2020-08-07,Groceries-R-Us,12345678,excess inventory,1003,oreos,2484,snacks,Keyword,18.26,2,13384
+2020-02-25,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,18.65,2,13864
+2020-04-20,Groceries-R-Us,12345678,local,1001,eggs,2478,farmers market,Keyword,1.49,87,14093
+2020-08-16,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,4.34,102,14626
+2020-07-22,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,local produce,Keyword,0.48,134,15059
+2020-09-27,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,7.86,8,15477
+2020-03-18,Groceries-R-Us,12345678,organic,1002,broccoli,2482,Top 10%,Household income,11.15,11,17059
+2020-01-01,Groceries-R-Us,12345678,organic,1002,brussels sprouts,2481,Top 10%,Household income,7.92,5,17400
+2020-01-18,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,17.55,272,18303
+2020-04-28,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,7.95,11,19575
+2020-02-20,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,8.6,2,5286
+2020-04-19,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,3.74,14,5455
+2020-08-21,Groceries-R-Us,12345678,holiday promotion,1004,apple pie,2486,thanksgiving ideas,Keyword,10.86,36,7728
+2020-03-01,Groceries-R-Us,12345678,local,1001,cheese,2479,farmers market,Keyword,2.47,171,11204
+2020-01-23,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,2.25,2,11185
+2020-02-21,Groceries-R-Us,12345678,organic,1002,tomatoes,2488,Top 10%,Household income,4.83,51,11652
+2020-10-16,Groceries-R-Us,12345678,local,1001,sweet potatoes,2480,farmers market,Keyword,18.09,0,16670
+2020-02-12,Groceries-R-Us,12345678,excess inventory,1003,summer squash,2483,41-50%,Household income,2.11,1,17065
+2020-08-19,Groceries-R-Us,12345678,local,1001,tomatoes,2488,farmers market,Keyword,6.35,96,11971

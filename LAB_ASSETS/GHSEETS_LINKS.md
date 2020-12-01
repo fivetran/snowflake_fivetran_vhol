@@ -1,6 +1,8 @@
 # Links to Google Sheets / Google Ads Sample Data
 
-The following links are all copies of the same Google Sheet and contain the same data. Google Sheets has a 100 concurrent users-per-sheet limit, so to spread the load during the workshop we made copies of the sheet. **Pick a link at random, it does not matter which link you use!**
+The following links are all copies of the same Google Sheet and contain the same data. Google Sheets has a 100 concurrent users-per-sheet limit, so to spread the load during the workshop we made copies of the sheet.
+
+**Pick a link at random, it does not matter which link you use!**
 
 ## GSheets Links
 

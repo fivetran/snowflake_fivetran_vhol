@@ -1,23 +1,23 @@
 /*************************
 DBA MODE 
 **************************/
-​
-​
+
+
 -----
 --A--
 -----
 --Let's set our worksheet role and db/schema
 use role ACCOUNTADMIN;
 use schema PC_FIVETRAN_DB.GOOGLE_ADS_DBT;
-​
-​
+
+
 -----
 --B--
 -----
 --Make a new DEV db and schema and then clone the 3 key tables for isolated analysis and experimentation
 create database GOOGLE_ADS_DEV clone PC_FIVETRAN_DB;
 use schema GOOGLE_ADS_DEV.GOOGLE_ADS_DBT;
-​
+
 -----
 --C--
 -----
@@ -27,8 +27,8 @@ with
 warehouse_size = 'XSMALL' 
 auto_suspend = 120 --seconds
 auto_resume = TRUE;
-​
-​
+
+
 -----
 --D--
 -----
@@ -47,13 +47,13 @@ end_timestamp = null
  on 90 PERCENT do NOTIFY;
  
 alter WAREHOUSE "MKT_ANALYSIS" set RESOURCE_MONITOR = "MARKETING_ANALYSIS";
-​
-​
+
+
 /*************************
 NOW WE ARE IN ANALYST MODE 
 **************************/
-​
-​
+
+
 -----
 --E--
 -----
@@ -71,24 +71,24 @@ GOOGLE_ADS__URL_AD_ADAPTER
 where ad_group_name = 'cranberry sauce'
 group by ad_group_name, campaign_name
 order by 6 desc;
-​
-​
+
+
 -----
 --F--
 -----
 --I wonder,does snowy weather increase clicks?  
 --Lets get some weather data from the Snowflake Data Marketplace and combine it with our ad data
 --DM steps
-​
-​
+
+
 -----
 --G--
 ----- 
 --With production-sized data sets we might want to join and query tables with billions of rows
 --In these cases it's easy and productive to scale up our virtual warehouse so these queries run faster
 alter warehouse mkt_analysis set warehouse_size = 'XLARGE';
-​
-​
+
+
 -----
 --H--
 -----
@@ -102,12 +102,12 @@ GOOGLE_ADS__URL_AD_ADAPTER ga,
 where ga.date_day = w.date_valid_std
 group by 1
 order by 2 desc;
-​
+
 -----
 --I--
 -----
 --Let's create new view with the correlations built in to the URL_AD_ADAPTER data
-create view GOOGLE_ADS__URL_AD_ADAPTER_CORR
+create or replace view GOOGLE_ADS__URL_AD_ADAPTER_CORR
 as (
 with 
 corr as (
@@ -128,27 +128,20 @@ where b.ad_group_name = c.ad_group_name
  
 select * from GOOGLE_ADS__URL_AD_ADAPTER_CORR; 
  
-​
+
 -----
 --J--
 -----
 --Once we're done with our complex queries we scale the warehouse back down
 alter warehouse mkt_analysis set warehouse_size = 'XSMALL';
-​
-​
+
+
 -----
 --K--
 -----
---We discover that the ad group labeled 'oreos' is a mistake and should have been called 'fig newtons'
---Let's correct this.
-update GOOGLE_ADS__URL_AD_ADAPTER set ad_group_name = 'fig newtons' where ad_group_name = 'oreos';
---now check that the data changed
-select distinct ad_group_name from GOOGLE_ADS__URL_AD_ADAPTER where ad_group_name in ('oreos','fig newtons');
-​
------
---L--
------
---Whoops, turns out 'oreos' was correct all along.  We can fix that quickly with Time Travel.
-create or replace table GOOGLE_ADS__URL_AD_ADAPTER as (SELECT * FROM GOOGLE_ADS__URL_AD_ADAPTER AT (OFFSET =>-60*5));
---Recheck the table
-select distinct ad_group_name from GOOGLE_ADS__URL_AD_ADAPTER where ad_group_name in ('oreos','fig newtons');
+--Let's look at one last great feature of Snowflake.  Have you ever accidentally dropped a table?  Or a database?  
+--Let's 'accidentally' drop a table.
+drop table GOOGLE_ADS__URL_AD_ADAPTER; 
+
+--Fortunately, in Snowflake, this is an easy fix.
+undrop table GOOGLE_ADS__URL_AD_ADAPTER;

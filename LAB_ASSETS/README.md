@@ -4,6 +4,10 @@ This folder contains various assets used in the Snowflake + Fivetran Virtual Han
 
 ## What's in the box
 
+### GSHEETS_LINKS.md
+
+A list of Google Sheets links. You can use any one when following the workshop materials in *Fivetran, Section 2*.
+
 ### vhol_script.sql
 
 Used in *Snowflake, Part 2 - Step 7*

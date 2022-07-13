@@ -6,7 +6,7 @@ jobs:
       - name: run models # Give each step in your job a name. This will enable you to track the steps in the logs.
         command: dbt run # Enter the dbt command that should run in this step. This example will run all your models. For a list of available commands visit https://docs.getdbt.com/reference/model-selection-syntax/.
       - name: test models
-        command: dbt test --no-version-check # This example will run all your tests.
+        command: dbt test # This example will run all your tests.
 
   #  - name: nightly
   #    schedule: 0 0 * * * # This example will run every day at midnight.
@@ -18,7 +18,7 @@ jobs:
     schedule: 30 7 * * 1-5 # The example will run every weekday at 7:30am.
     steps:
       - name: run models
-        command: dbt run --no-version-check
+        command: dbt run
 #  - name: every5minutes
 #    schedule: '*/5 * * * *' # The example will run every 5 minutes. Note that the cron string is quoted as otherwise it will be treated as invalid alias node (see https://yaml.org/spec/1.2/spec.html#*%20alias// for details)
 #    steps:

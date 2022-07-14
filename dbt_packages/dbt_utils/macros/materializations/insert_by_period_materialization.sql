@@ -1,5 +1,5 @@
 {% macro get_period_boundaries(target_schema, target_table, timestamp_field, start_date, stop_date, period) -%}
-    {{ return(adapter.dispatch('get_period_boundaries', packages = dbt_utils._get_utils_namespaces())(target_schema, target_table, timestamp_field, start_date, stop_date, period)) }}
+    {{ return(adapter.dispatch('get_period_boundaries', 'dbt_utils')(target_schema, target_table, timestamp_field, start_date, stop_date, period)) }}
 {% endmacro %}
 
 {% macro default__get_period_boundaries(target_schema, target_table, timestamp_field, start_date, stop_date, period) -%}
@@ -29,7 +29,7 @@
 {%- endmacro %}
 
 {% macro get_period_sql(target_cols_csv, sql, timestamp_field, period, start_timestamp, stop_timestamp, offset) -%}
-    {{ return(adapter.dispatch('get_period_sql', packages = dbt_utils._get_utils_namespaces())(target_cols_csv, sql, timestamp_field, period, start_timestamp, stop_timestamp, offset)) }}
+    {{ return(adapter.dispatch('get_period_sql', 'dbt_utils')(target_cols_csv, sql, timestamp_field, period, start_timestamp, stop_timestamp, offset)) }}
 {% endmacro %}
 
 {% macro default__get_period_sql(target_cols_csv, sql, timestamp_field, period, start_timestamp, stop_timestamp, offset) -%}
@@ -53,7 +53,7 @@
 {% materialization insert_by_period, default -%}
   {%- set timestamp_field = config.require('timestamp_field') -%}
   {%- set start_date = config.require('start_date') -%}
-  {%- set stop_date = config.get('stop_date') or '' -%}}
+  {%- set stop_date = config.get('stop_date') or '' -%}
   {%- set period = config.get('period') or 'week' -%}
 
   {%- if sql.find('__PERIOD_FILTER__') == -1 -%}
@@ -102,7 +102,7 @@
     {# Create an empty target table -#}
     {% call statement('main') -%}
       {%- set empty_sql = sql | replace("__PERIOD_FILTER__", 'false') -%}
-      {{create_table_as(False, target_relation, empty_sql)}};
+      {{create_table_as(False, target_relation, empty_sql)}}
     {%- endcall %}
   {%- endif %}
 

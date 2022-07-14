@@ -1,5 +1,5 @@
 {% macro get_intervals_between(start_date, end_date, datepart) -%}
-    {{ return(adapter.dispatch('get_intervals_between', packages = dbt_utils._get_utils_namespaces())(start_date, end_date, datepart)) }}
+    {{ return(adapter.dispatch('get_intervals_between', 'dbt_utils')(start_date, end_date, datepart)) }}
 {%- endmacro %}
 
 {% macro default__get_intervals_between(start_date, end_date, datepart) -%}
@@ -24,21 +24,20 @@
 
 
 {% macro date_spine(datepart, start_date, end_date) %}
-    {{ return(adapter.dispatch('date_spine', packages = dbt_utils._get_utils_namespaces())(datepart, start_date, end_date)) }}
+    {{ return(adapter.dispatch('date_spine', 'dbt_utils')(datepart, start_date, end_date)) }}
 {%- endmacro %}
 
 {% macro default__date_spine(datepart, start_date, end_date) %}
 
-/*
-call as follows:
+
+{# call as follows:
 
 date_spine(
     "day",
     "to_date('01/01/2016', 'mm/dd/yyyy')",
     "dateadd(week, 1, current_date)"
-)
+) #}
 
-*/
 
 with rawdata as (
 

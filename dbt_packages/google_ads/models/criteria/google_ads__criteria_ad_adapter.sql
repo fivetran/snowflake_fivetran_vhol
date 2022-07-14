@@ -1,3 +1,5 @@
+{{ config(enabled=var('api_source') == 'adwords') }}
+
 with base as (
 
     select *
@@ -18,6 +20,10 @@ with base as (
         sum(spend) as spend,
         sum(clicks) as clicks,
         sum(impressions) as impressions
+
+        {% for metric in var('google_ads__criteria_passthrough_metrics') %}
+        , sum({{ metric }}) as {{ metric }}
+        {% endfor %}
     from base
     {{ dbt_utils.group_by(9) }}
 

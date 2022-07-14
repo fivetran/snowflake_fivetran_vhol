@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: google_ads__ad_adapter
+  - name: google_ads__url_ad_adapter
     description: Each record in this table represents the daily performance of URLs at the ad group level.
     columns:
       - name: date_day
@@ -57,3 +57,5 @@ models:
         description: "{{ doc('criteria_id') }}"
       - name: gclid
         description: "{{ doc('gcl_id') }}"
+      - name: rn
+        description: Row number partitioned by gclid and ordered by date_day which is used to dedupe possible double gclids.

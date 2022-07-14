@@ -26,6 +26,19 @@ Status of the ad group.
 The ID of the Campaign.
 {% enddocs %}
 
+{% docs ad_id %}
+The ID of the Ad.
+{% enddocs %}
+
+{% docs account_id %}
+The ID of the Account.
+{% enddocs %}
+
+
+{% docs ad_status %}
+Status of the Ad.
+{% enddocs %}
+
 {% docs campaign_name %}
 The name of the Campaign.
 {% enddocs %}
@@ -108,4 +121,20 @@ The utm_content parameter of the ad, extracted from the `effective_final_url`.
 
 {% docs utm_term %}
 The utm_term parameter of the ad, extracted from the `effective_final_url`.
+{% enddocs %}
+
+{% docs updated_at %}
+Timestamp of when the record was last updated in Google Ads.
+{% enddocs %}
+
+{% docs ad_type %}
+The type of the ad in Google Ads.
+{% enddocs %}
+
+{% docs ad_group_type %}
+The type of the ad group in Google Ads.
+{% enddocs %}
+
+{% docs is_most_recent_record %}
+Boolean representing whether the record is the most recent version of the object.
 {% enddocs %}

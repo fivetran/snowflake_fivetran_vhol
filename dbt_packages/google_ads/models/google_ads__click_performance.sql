@@ -1,3 +1,5 @@
+{{ config(enabled=var('api_source') == 'adwords') }}
+
 with base as (
 
     select *

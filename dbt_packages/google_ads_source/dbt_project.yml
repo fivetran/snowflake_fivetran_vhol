@@ -1,0 +1,29 @@
+name: 'google_ads_source'
+version: '0.7.0'
+config-version: 2
+require-dbt-version: [">=1.0.0", "<2.0.0"]
+
+vars:
+  google_ads__final_url_performance: "{{ source('adwords','final_url_performance') }}"
+  google_ads__click_performance: "{{ source('adwords','click_performance') }}"
+  google_ads__criteria_performance: "{{ source('adwords','criteria_performance') }}"
+  google_ads__ad_stats: "{{ source('adwords','ad_stats') }}"
+  google_ads__ad_history: "{{ source('adwords','ad_history') }}"
+  google_ads__ad_group_history: "{{ source('adwords','ad_group_history') }}"
+  google_ads__campaign_history: "{{ source('adwords','campaign_history') }}"
+  google_ads__account_history: "{{ source('adwords','account_history') }}"
+  api_source: google_ads
+  google_ads__url_passthrough_metrics: []
+  google_ads__criteria_passthrough_metrics: []
+  google_ads__ad_stats_passthrough_metrics: []
+
+models:
+  google_ads_source:
+    +schema: stg_google_ads
+    +materialized: table
+    adwords_connector:
+      tmp:
+        +materialized: view
+    google_ads_connector:
+      tmp:
+        +materialized: view

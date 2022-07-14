@@ -1,0 +1,23 @@
+name: 'google_ads'
+version: '0.7.0'
+config-version: 2
+require-dbt-version: [">=1.0.0", "<2.0.0"]
+models:
+  google_ads:
+    +schema: google_ads
+    +materialized: table
+vars:
+  google_ads:
+    click_performance: "{{ ref('stg_google_ads__click_performance') }}"
+    final_url_performance: "{{ ref('stg_google_ads__final_url_performance') }}"
+    criteria_performance: "{{ ref('stg_google_ads__criteria_performance') }}"
+    ad_stats: "{{ ref('stg_google_ads__ad_stats') }}"
+    account_history: "{{ ref('stg_google_ads__account_history') }}"
+    campaign_history: "{{ ref('stg_google_ads__campaign_history') }}"
+    ad_group_history: "{{ ref('stg_google_ads__ad_group_history') }}"
+    ad_history: "{{ ref('stg_google_ads__ad_history') }}"
+    ad_final_url_history: "{{ ref('stg_google_ads__ad_final_url_history') }}"
+  api_source: google_ads
+  google_ads__url_passthrough_metrics: []
+  google_ads__criteria_passthrough_metrics: []
+  google_ads__ad_stats_passthrough_metrics: []
